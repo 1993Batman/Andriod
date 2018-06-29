@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Books</string>
+    <string-array name="AU_cities_array">
+        <item>Melbourne</item>
+        <item>Sydney</item>
+        <item>Brisbane</item>
+        <item>Adelaide</item>
+        <item>Perth</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>New Castle</item>
+        <item>Alice Springs</item>
+        <item>Geelong</item>
+    </string-array>    
+</resources>

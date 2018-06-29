@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\LatLongWithImages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\Android\\Projects\\LatLongWithImages\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\LatLongWithImages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\melbourne.png",
+        "source": "D:\\Android\\Projects\\LatLongWithImages\\app\\src\\main\\res\\drawable-hdpi\\melbourne.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\LatLongWithImages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\location.png",
+        "source": "D:\\Android\\Projects\\LatLongWithImages\\app\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\LatLongWithImages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sydney.png",
+        "source": "D:\\Android\\Projects\\LatLongWithImages\\app\\src\\main\\res\\drawable-hdpi\\sydney.png"
+    }
+]

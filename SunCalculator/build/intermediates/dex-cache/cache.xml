@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\Projects\SunCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="74bbd655c598015fa964cf014ee7a2901517c6f9">
+        <dex dex="D:\Android\Projects\SunCalculator\app\build\intermediates\pre-dexed\debug\instant-run_96b55cfd8b1415df84d1621db0d4718bd8422ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Projects\SunCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="84a98d44d295d4cbdd0b070dabdcc3bea7872df5">
+        <dex dex="D:\Android\Projects\SunCalculator\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_bea7bf5afc27aaff104f391b2cea5f7e71106203.jar" />
+    </item>
+
+</items>

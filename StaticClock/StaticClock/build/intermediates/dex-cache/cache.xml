@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\StevenE\Downloads\StaticClock\StaticClock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d306905f8050e790d45591d34e795f52a0bd745f">
+        <dex dex="C:\Users\StevenE\Downloads\StaticClock\StaticClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_837f3ea453351d7e2c6fc38e6b180c30ca8b9c64\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\StevenE\Downloads\StaticClock\StaticClock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="286696f013ff5ee39331ae78b509ad0633b6a1fa">
+        <dex dex="C:\Users\StevenE\Downloads\StaticClock\StaticClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_73b4fe38bc6f17d867b7b143c61149a01e2c0d5c\classes.dex" />
+    </item>
+
+</items>

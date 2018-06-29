@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu Oct 20 21:08:45 AEDT 2016
+2.base=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\sunpic.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\assets\\debug
+6.file=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\assets\\debug\\au_locations.txt
+3.set=ASSET
+1.base=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Android\\Projects\\SunCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\addlocation.xml
+0.set=ANDROID_RESOURCE

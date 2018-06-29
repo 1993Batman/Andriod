@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\Projects\LifeCycle\LifeCycle\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d92ff042580e7e0ac67ce0603dd56a411a0a375">
+        <dex dex="D:\Android\Projects\LifeCycle\LifeCycle\app\build\intermediates\pre-dexed\debug\instant-run_3c84ee822ed402792729ce108f3b9dd29355cdda.jar" />
+    </item>
+    <item
+        jar="D:\Android\Projects\LifeCycle\LifeCycle\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="06d0e7518a1ce844d84d55de193cc5b1c9293886">
+        <dex dex="D:\Android\Projects\LifeCycle\LifeCycle\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ab42388fa724132c9e1fad812251f64b71e297f7.jar" />
+    </item>
+
+</items>

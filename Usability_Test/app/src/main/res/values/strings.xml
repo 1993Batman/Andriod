@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Usability Test</string>
+    <string name="standard">This the standard size for Android</string>
+    <string name="larger">This is larger than the standard size for Android</string>
+    <string name="smaller">This is smaller then the standard size for Android</string>
+</resources>

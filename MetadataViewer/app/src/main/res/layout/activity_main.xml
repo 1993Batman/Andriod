@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.stevene.metadataviewer.MainActivity">
+
+    <ImageButton
+        app:srcCompat="@drawable/chicken_nuggets"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="30dp"
+        android:id="@+id/nuggets"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:onClick="onClick()" />
+
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/choc_chip_cookies"
+        android:id="@+id/cookies"
+        android:layout_marginRight="11dp"
+        android:layout_marginEnd="11dp"
+        android:layout_alignTop="@+id/nuggets"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="onClick" />
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/chocolate"
+        android:layout_marginTop="58dp"
+        android:id="@+id/chocolate"
+        android:onClick="onClick"
+        android:layout_below="@+id/nuggets"
+        android:layout_alignLeft="@+id/nuggets"
+        android:layout_alignStart="@+id/nuggets" />
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/cocopops"
+        android:id="@+id/cocopops"
+        android:onClick="onClick"
+        android:layout_alignTop="@+id/chocolate"
+        android:layout_alignLeft="@+id/cookies"
+        android:layout_alignStart="@+id/cookies" />
+
+    <TextView
+        style="@style/NameTheme"
+        android:text="Select an image to see the MetaData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textAlignment="center"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        style="@style/NameTheme"
+        android:text="Chicken Nuggets"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nuggs"
+        android:textAlignment="center"
+        android:layout_below="@+id/nuggets"
+        android:layout_alignRight="@+id/nuggets"
+        android:layout_alignEnd="@+id/nuggets" />
+
+    <TextView
+        style="@style/NameTheme"
+        android:text="2016/09/15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/date1"
+        android:layout_below="@+id/nuggs"
+        android:layout_alignRight="@+id/date3"
+        android:layout_alignEnd="@+id/date3"
+        android:layout_marginRight="11dp"
+        android:layout_marginEnd="11dp" />
+
+    <TextView
+        style="@style/NameTheme"
+        android:text="Chocolate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/choco"
+        android:layout_marginLeft="21dp"
+        android:layout_marginStart="21dp"
+        android:layout_below="@+id/chocolate"
+        android:layout_alignLeft="@+id/nuggs"
+        android:layout_alignStart="@+id/nuggs" />
+
+    <TextView
+        style="@style/NameTheme"
+        android:text="Coco Pops"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cpop"
+        android:textAlignment="center"
+        android:layout_below="@+id/cocopops"
+        android:layout_alignRight="@+id/cocopops"
+        android:layout_alignEnd="@+id/cocopops"
+        android:layout_marginRight="29dp"
+        android:layout_marginEnd="29dp" />
+
+    <TextView
+        style="@style/NameTheme"
+        android:text="2016/09/15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/date3"
+        android:layout_below="@+id/choco"
+        android:layout_alignLeft="@+id/choco"
+        android:layout_alignStart="@+id/choco" />
+
+    <TextView
+        style="@style/NameTheme"
+        android:text="2016/09/15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/date4"
+        android:layout_below="@+id/cpop"
+        android:layout_alignRight="@+id/cpop"
+        android:layout_alignEnd="@+id/cpop" />
+
+    <TextView
+        style="@style/NameTheme"
+        android:text="Cookie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cook"
+        android:layout_below="@+id/cookies"
+        android:layout_alignLeft="@+id/cpop"
+        android:layout_alignStart="@+id/cpop"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp" />
+
+    <TextView
+        style="@style/NameTheme"
+        android:text="2016/09/15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/date2"
+        android:layout_below="@+id/cook"
+        android:layout_alignLeft="@+id/cpop"
+        android:layout_alignStart="@+id/cpop" />
+
+</RelativeLayout>
